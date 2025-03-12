@@ -1,4 +1,4 @@
-# DATA-ANALYSIS-PROJECT
+# DATA_ANALYSIS_PROJECT
 
 in this project
 a dataset is taken a csv file containg the raw data of laid_offs over the year
